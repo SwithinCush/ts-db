@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.ts.ts.db">
+    <module_version install_time="1425614217645" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="4289359136" name="config/Modules/com-ts-ts-db.xml"/>
+        <file crc="2312017831" name="modules/com-ts-ts-db.jar"/>
+        <file crc="3507015122" name="modules/ext/com.ts.ts-db/antlr/antlr.jar"/>
+        <file crc="3558753978" name="modules/ext/com.ts.ts-db/asm/asm.jar"/>
+        <file crc="2696327360" name="modules/ext/com.ts.ts-db/cglib/cglib.jar"/>
+        <file crc="2421076609" name="modules/ext/com.ts.ts-db/com-h2database/h2.jar"/>
+        <file crc="3507394090" name="modules/ext/com.ts.ts-db/commons-collections/commons-collections.jar"/>
+        <file crc="2050839146" name="modules/ext/com.ts.ts-db/dom4j/dom4j.jar"/>
+        <file crc="2408006604" name="modules/ext/com.ts.ts-db/javassist/javassist.jar"/>
+        <file crc="2715822795" name="modules/ext/com.ts.ts-db/javax-transaction/jta.jar"/>
+        <file crc="1296054818" name="modules/ext/com.ts.ts-db/joda-time/joda-time.jar"/>
+        <file crc="3061699236" name="modules/ext/com.ts.ts-db/org-hibernate-javax-persistence/hibernate-jpa-2.0-api.jar"/>
+        <file crc="440750784" name="modules/ext/com.ts.ts-db/org-hibernate/hibernate-commons-annotations.jar"/>
+        <file crc="2665659691" name="modules/ext/com.ts.ts-db/org-hibernate/hibernate-core.jar"/>
+        <file crc="640518697" name="modules/ext/com.ts.ts-db/org-hibernate/hibernate-entitymanager.jar"/>
+        <file crc="4040881582" name="modules/ext/com.ts.ts-db/org-jadira-usertype/usertype.core.jar"/>
+        <file crc="1659326340" name="modules/ext/com.ts.ts-db/org-jadira-usertype/usertype.spi.jar"/>
+        <file crc="1779583847" name="modules/ext/com.ts.ts-db/org-joda/joda-money.jar"/>
+        <file crc="446027275" name="modules/ext/com.ts.ts-db/org-slf4j/slf4j-api.jar"/>
+        <file crc="108045251" name="update_tracking/com-ts-ts-db.xml"/>
+    </module_version>
+</module>

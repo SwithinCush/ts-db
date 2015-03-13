@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/ts/db/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Implementation-Version: 1.0.0
+OpenIDE-Module-Build-Version: 201503060356
+OpenIDE-Module: com.ts.ts.db
+OpenIDE-Module-Public-Packages: javax.persistence.**, org.hibernate.**
+ , org.joda.**, org.jadira.**
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: com.ts
+OpenIDE-Module-Name: ts-db
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/com.ts.ts-db/com-h2database/h2.jar ext/com.ts.ts-db/
+ org-hibernate/hibernate-entitymanager.jar ext/com.ts.ts-db/org-hibern
+ ate/hibernate-core.jar ext/com.ts.ts-db/antlr/antlr.jar ext/com.ts.ts
+ -db/commons-collections/commons-collections.jar ext/com.ts.ts-db/dom4
+ j/dom4j.jar ext/com.ts.ts-db/org-hibernate/hibernate-commons-annotati
+ ons.jar ext/com.ts.ts-db/javax-transaction/jta.jar ext/com.ts.ts-db/c
+ glib/cglib.jar ext/com.ts.ts-db/asm/asm.jar ext/com.ts.ts-db/javassis
+ t/javassist.jar ext/com.ts.ts-db/org-hibernate-javax-persistence/hibe
+ rnate-jpa-2.0-api.jar ext/com.ts.ts-db/org-slf4j/slf4j-api.jar ext/co
+ m.ts.ts-db/joda-time/joda-time.jar ext/com.ts.ts-db/org-jadira-userty
+ pe/usertype.core.jar ext/com.ts.ts-db/org-jadira-usertype/usertype.sp
+ i.jar ext/com.ts.ts-db/org-joda/joda-money.jar
+Maven-Class-Path: com.h2database:h2:1.4.185 org.hibernate:hibernate-en
+ titymanager:3.6.10.Final org.hibernate:hibernate-core:3.6.10.Final an
+ tlr:antlr:2.7.6 commons-collections:commons-collections:3.1 dom4j:dom
+ 4j:1.6.1 org.hibernate:hibernate-commons-annotations:3.2.0.Final java
+ x.transaction:jta:1.1 cglib:cglib:2.2 asm:asm:3.1 javassist:javassist
+ :3.12.0.GA org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.
+ 1.Final org.slf4j:slf4j-api:1.6.1 joda-time:joda-time:2.7 org.jadira.
+ usertype:usertype.core:3.2.0.GA org.jadira.usertype:usertype.spi:3.2.
+ 0.GA org.joda:joda-money:0.10.0
+
